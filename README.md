@@ -59,7 +59,7 @@ comportamiento que pueda tener una función que tenga ese tipo:
 * `(b -> c) -> (a -> b) -> (a -> c)`
 * `(a -> a) -> a -> a`
 
-Al mirar el tipo de datos de una función se otiene algo de información acerca de
+Al mirar el tipo de datos de una función se obtiene algo de información acerca de
 la función.
 
 # Polimorfismo AdHoc
